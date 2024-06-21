@@ -79,7 +79,7 @@
                 </li>
                 <?php if (!$_SESSION['autenticado']): ?>
                     <div class="nav-item">
-                        <li><a href="#sign-in-dialog" id="sign-in">Ingresarr</a></li>
+                        <li><a href="#sign-in-dialog" id="sign-in">Ingresar</a></li>
                     </div>
                    <div class="nav-item">
                         <li>
