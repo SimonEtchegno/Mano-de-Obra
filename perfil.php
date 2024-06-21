@@ -605,4 +605,3 @@ if($con = mysqli_fetch_assoc($consulta)){
 } else {
     echo '<br><br><br><br><center><h3>Necesita ingresar a su perfil</h3></center><br><br>';
 } ?>
-<!-- /main -->
