@@ -26,5 +26,5 @@ header('location: enviar.html');
 }else {
     echo "Ocurrió un error inesperado.";
 }
-
+/*  */
 ?>
